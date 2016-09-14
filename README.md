@@ -1,6 +1,6 @@
 #Zipper
 
-[![Build Status](https://travis-ci.org/eughenio/Zipper.png)](https://travis-ci.org/eughenio/Zipper)
+[![Build Status](https://travis-ci.org/eughenio/Zipper.svg?branch=master)](https://travis-ci.org/eughenio/Zipper)
 
 This is a simple Wrapper around the ZipArchive methods with some handy functions.
 
